@@ -1,3 +1,4 @@
+package day1;
 import java.util.*;
 import java.io.FileNotFoundException;
 import java.io.File;
